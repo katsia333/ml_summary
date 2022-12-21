@@ -6,4 +6,5 @@ Topics
 - **pandas_basic** contains examples of basic pandas methodes
 
 2. Data exploration
-- 
+- **seaborn** contains short description of different plots, situations and examples of applying
+
