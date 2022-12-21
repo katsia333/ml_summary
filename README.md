@@ -1,15 +1,9 @@
 # ml_summary
-The summary of ML course.
+A short summary of ML course with basic theory and examples of code.
 
-1. Data manipulations - pandas basic
+Topics
+1. Data manipulations 
+- **pandas_basic** contains examples of basic pandas methodes
 
-Resources from this block:
-
-Open ML course
-https://habr.com/ru/company/ods/blog/322626/
-
-pandas, numpy, matplotlib и scikit-learn
-http://scipy-lectures.org/index.html
-
-Exercises on Pandas
-https://github.com/guipsamora/pandas_exercises/
+2. Data exploration
+- 
